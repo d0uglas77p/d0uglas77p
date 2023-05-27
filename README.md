@@ -2,15 +2,13 @@
 
 #### 📚 Atualmente faço Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes.
 #### 🖥️ Estudando a Línguagem de Programação Python.
-#### 🌎 Além do desenvolvimento, também estudo Redes e Segurança, e Banco de Dados.
+#### 🌎 Além do desenvolvimento, também estudo Redes e Segurança.
 
 #
 
 <div>
 <img align="center" alt="python" height="35" width="40" 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" alt="sqlite" height="30" width="30"
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="center" alt="vscode" height="30" width="30"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="center" alt="linux" height="30" width="30"
