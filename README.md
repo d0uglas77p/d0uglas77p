@@ -1,8 +1,8 @@
-# Olá! Eu sou Douglas Pardim, seja bem-vindo! 😄
+# Olá! Eu sou o Douglas, seja bem-vindo! 😄
 
 #### 📚 Atualmente faço Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes.
-#### 🖥️ Estudando as linguegens de programação Python e Java.
-#### 🌎 Além do desenvolvimento, também estudo Redes e Segurança e Banco de Dados.
+#### 🖥️ Estaǵiando na V2Saúde em Desenvolvimento de Sistemas Fullstack, Java, HTML e MySql.
+#### 📊 Focando atualmente em Python, Java e MySql.
 
 #
 
