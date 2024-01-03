@@ -2,7 +2,7 @@
 
 #### 📚 Atualmente faço Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes.
 #### 🖥️ Estaǵiando na V2Saúde em Desenvolvimento de Sistemas Back-End, Java e MySql.
-#### 📊 Focando atualmente em Python, Java e MySql.
+#### 📊 Focando atualmente em Java e MySql.
 
 #
 
