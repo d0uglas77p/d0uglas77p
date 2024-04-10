@@ -1,7 +1,12 @@
 # Olá! Eu sou o Douglas, seja bem-vindo! 😄
 
 #### 📚 Atualmente faço Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes.
-#### 🖥️ Estaǵiando na V2Saúde em Desenvolvimento de Sowtware com Java, JSF/PrimeFaces, Spring e MySql.
+Busco oportunidades que me permitam aplicar e expandir meu conhecimento em desenvolvimento de 
+sistemas, especialmente focado em tecnologias como Java, Spring Boot, JSF/PrimeFaces, Jasper Reports e 
+MySQL. Como estudante do curso de Análise e Desenvolvimento de Sistemas na UMC, e com experiência como 
+estagiário de desenvolvimento na V2Saúde, estou empenhado em aprimorar minhas habilidades técnicas, 
+resolver desafios complexos e contribuir para o sucesso da equipe. Estou aberto a novos desafios e sempre 
+disposto a aprender e crescer profissionalmente na área de tecnologia.
 
 #
 
