@@ -4,7 +4,7 @@
 <h3 align="center"><u>Desenvolvedor Back-End</u></h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdyb2V2cHppa25pY3NwNWtjczFucndydTQza2trNDFoNzV3czlpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 👨‍💻 Atualmente estou me aprimorando como **Desenvolvedor Back-End**
+- 👨‍💻 Atualmente me aprimorando como **Desenvolvedor Back-End**
 
 - 🏫 Cursando **Análise e Desenvolvimento de Sistemas - UMC**
 
@@ -30,7 +30,8 @@
 
 <h3 align="left">🛠 Frameworks, Ferramentas e outros </h3>
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaSwing](https://img.shields.io/badge/JavaSwing-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-484848.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JavaSwing](https://img.shields.io/badge/JavaSwing-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br>
+![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-484848.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 #
