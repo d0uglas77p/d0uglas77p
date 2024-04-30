@@ -40,11 +40,4 @@
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d0uglas77p&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
 </div>
 
-<br>
-
-<div style="display: flex; justify-content: space-between;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=d0uglas77p&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"> 
-    <img align="right" src="https://streak-stats.demolab.com/?user=d0uglas77p&theme=bear&background=000&border=30A3DC&dates=FFF"> 
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007BFF&section=footer&reversal=false&textBg=false&descAlign=0"/>
