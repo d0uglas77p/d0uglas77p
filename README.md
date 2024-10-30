@@ -6,7 +6,7 @@
 
 - 👨‍💻 Atualmente me aprimorando como **Desenvolvedor Back-End**
 
-- 🏫 Cursando **Análise e Desenvolvimento de Sistemas - UMC**
+- 🏫 Cursando **Análise e Desenvolvimento de Sistemas - UNIP**
 
 - 📱 Contato: **11 977430273**
 
