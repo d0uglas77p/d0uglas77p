@@ -6,7 +6,7 @@
 
 - 👨‍💻 Atualmente me aprimorando como **Desenvolvedor Java**
 
-- 🏫 Cursando **Análise e Desenvolvimento de Sistemas - UNIP**
+- 🏫 Cursando **Análise e Desenvolvimento de Sistemas - UMC**
 
 - 📱 Contato: **11 977430273**
 
