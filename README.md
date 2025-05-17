@@ -4,7 +4,7 @@
 <h3 align="center"><u>Desenvolvedor Full Stack</u></h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdyb2V2cHppa25pY3NwNWtjczFucndydTQza2trNDFoNzV3czlpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 👨‍💻 Atualmente me aprimorando como **Desenvolvedor Java**
+- 👨‍💻 Desenvolvedor Back-end Java na **By Solution**
 
 - 🏫 Cursando **Análise e Desenvolvimento de Sistemas - UMC**
 
