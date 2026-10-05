@@ -14,7 +14,7 @@
 
 <h3 align="left">🌎 Conecte-se comigo 🌎</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/douglas77p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arturgrr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/douglasferreira-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arturgrr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> 💻 Linguagens
@@ -26,17 +26,16 @@
 
 <h3 align="left">🎲 Banco de Dados</h3>
 
-![MySQL](https://img.shields.io/badge/MySQL-E44C30?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-E44C30?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
 
 <h3 align="left">🛠 Frameworks, Ferramentas e outros </h3>
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-484848.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 #
-
-<div align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=d0uglas77p&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=007BFF&section=footer&reversal=false&textBg=false&descAlign=0"/>
