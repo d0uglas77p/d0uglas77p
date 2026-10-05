@@ -4,13 +4,13 @@
 <h3 align="center"><u>Desenvolvedor Full Stack</u></h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdyb2V2cHppa25pY3NwNWtjczFucndydTQza2trNDFoNzV3czlpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 👨‍💻 Desenvolvedor Back-end Java na **By Solution**
+- 👨‍💻 Desenvolvedor Back-end Java
 
-- 🏫 Cursando **Análise e Desenvolvimento de Sistemas - UMC**
+- 🏫 Cursou **Análise e Desenvolvimento de Sistemas - UMC**
 
-- 📱 Contato: **11 977430273**
+- 📱 Contato: **11 97641-5514**
 
-- 📫 E-mail: [douglas_1313@hotmail.com](mailto:douglas_1313@hotmail.com)
+- 📫 E-mail: [douglas77sp@gmail.com](mailto:douglas77sp@gmail.com)
 
 <h3 align="left">🌎 Conecte-se comigo 🌎</h3>
 <p align="left">
